@@ -29,7 +29,7 @@ In the Item Based Model, We wrote the code for the graphical and set of actions 
 **To begin with**, we add those lines to the header file of the dialog class :
 
    
-```
+
      class  Dialog1  :  public  QDialog
         
         {
@@ -69,7 +69,7 @@ In the Item Based Model, We wrote the code for the graphical and set of actions 
           
         
         };
-    ```
+  
     
 ****Then**  in the cpp file we implement our methods:**
    
